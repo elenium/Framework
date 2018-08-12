@@ -1,2 +1,2 @@
 # elenium.NET
-Advanced Web Technology
+A comprehensive framework that includes topics of the computer science.
